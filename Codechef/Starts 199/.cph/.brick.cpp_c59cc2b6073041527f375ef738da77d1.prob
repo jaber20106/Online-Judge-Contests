@@ -1,0 +1,1 @@
+{"name":"Local: brick","url":"d:\\Contests\\Codechef\\Starts 199\\brick.cpp","tests":[{"id":1755096743901,"input":"3\n4\n2 1 4 3\n2\n9 9\n3\n2 5 100","output":"3\n1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Contests\\Codechef\\Starts 199\\brick.cpp","group":"local","local":true}

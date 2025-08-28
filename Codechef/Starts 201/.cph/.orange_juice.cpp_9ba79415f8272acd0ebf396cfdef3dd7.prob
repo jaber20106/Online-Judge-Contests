@@ -1,0 +1,1 @@
+{"name":"Local: orange_juice","url":"d:\\Contests\\Codechef\\Starts 201\\orange_juice.cpp","tests":[{"id":1756306046494,"input":"3\n1 5\n5 5\n10 1","output":"3\n6\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Contests\\Codechef\\Starts 201\\orange_juice.cpp","group":"local","local":true}

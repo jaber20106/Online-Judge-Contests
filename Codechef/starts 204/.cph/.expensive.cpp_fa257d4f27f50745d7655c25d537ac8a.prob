@@ -1,0 +1,1 @@
+{"name":"Local: expensive","url":"d:\\Contests\\Codechef\\starts 204\\expensive.cpp","tests":[{"id":1759330668300,"input":"3\n3 3\n1 100 5\n3 1\n1 100 5\n4 2\n9 2 5 8","output":"106\n100\n17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Contests\\Codechef\\starts 204\\expensive.cpp","group":"local","local":true}

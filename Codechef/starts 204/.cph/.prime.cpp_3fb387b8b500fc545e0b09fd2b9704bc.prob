@@ -1,0 +1,1 @@
+{"name":"Local: prime","url":"d:\\Contests\\Codechef\\starts 204\\prime.cpp","tests":[{"id":1759330814628,"input":"2\n2\n1 1\n3\n2 1 3","output":"1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Contests\\Codechef\\starts 204\\prime.cpp","group":"local","local":true}
